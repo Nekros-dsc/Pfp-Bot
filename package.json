@@ -1,0 +1,14 @@
+{
+  "name": "random-pfp",
+  "version": "1.0.0",
+  "description": "Get a random pfp in a channel every x seconds.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
